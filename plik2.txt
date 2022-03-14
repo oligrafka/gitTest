@@ -1,1 +1,2 @@
 To jest pierwsza wer pliku nr 2
+Jakaś znmiana żeby sprawdzić logi w commitach
