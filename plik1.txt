@@ -1,0 +1,4 @@
+To jest pirwsza wersja pliku 1
+Zmiana pliku nr 1.
+Kolejna zmiana pliku 1.
+
