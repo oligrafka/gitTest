@@ -1,2 +1,2 @@
 To jest pirwsza plik newFeature na nowym branchu
-
+Dodaję nowwy tekst w pliku
