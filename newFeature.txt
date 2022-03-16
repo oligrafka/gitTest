@@ -1,0 +1,2 @@
+To jest pirwsza plik newFeature na nowym branchu
+
